@@ -1,0 +1,26 @@
+#nav
+{
+    padding: 15px;
+    background: linear-gradient(rgb(29, 177, 61),white);
+}
+#nav ul a
+{
+   text-decoration: none;
+   transition: font-size .5s ease;
+}
+#nav ul li{
+    list-style: none;
+    display: inline;
+    padding: 25px;
+}
+#nav ul a:hover
+{
+  color: rgb(133, 13, 49);
+  font-size: 40px;
+}
+body{
+    background: linear-gradient(rgb(157, 195, 206),white);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
